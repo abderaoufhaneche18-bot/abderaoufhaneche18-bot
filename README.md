@@ -27,6 +27,8 @@ A complete digital-products storefront with a shopping cart, wishlist, checkout 
 
 **[View repository](https://github.com/abderaoufhaneche18-bot/digital-products-e-commerce-application)** Â· **[Live demo](https://digital-products-e-commerce-applica-omega.vercel.app)**
 
+<img src="https://raw.githubusercontent.com/abderaoufhaneche18-bot/digital-products-e-commerce-application/main/docs/screenshots/digistore-home.jpg" alt="DigiStore storefront preview" width="100%">
+
 ### ðŸ‘¤ Personal Website & Portfolio
 
 My personal website presenting who I am, the technologies I work with and how to get in touch.
